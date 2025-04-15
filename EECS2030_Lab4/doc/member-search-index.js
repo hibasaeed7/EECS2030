@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Lab4","c":"Vector3D","l":"Vector3D()","u":"%3Cinit%3E()"}];updateSearchResults();

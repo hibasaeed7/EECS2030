@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Lab2","c":"TestingExample","l":"LicencePoints(int, int, boolean)","u":"LicencePoints(int,int,boolean)"},{"p":"Lab2","c":"TestingExample","l":"TestingExample()","u":"%3Cinit%3E()"}];updateSearchResults();
